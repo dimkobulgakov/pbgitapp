@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "osago_git.pbl" "";
+@end;
+@begin Objects
+ "w_main.srw" "osago_git.pbl";
+ "osago_git.sra" "osago_git.pbl";
+@end;
